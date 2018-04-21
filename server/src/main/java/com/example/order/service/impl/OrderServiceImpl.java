@@ -2,8 +2,6 @@ package com.example.order.service.impl;
 
 import com.example.order.dataobject.OrderDetail;
 import com.example.order.dataobject.OrderMaster;
-import com.example.order.dataobject.ProductInfo;
-import com.example.order.dto.CartDTO;
 import com.example.order.dto.OrderDTO;
 import com.example.order.enums.OrderStatusEnum;
 import com.example.order.enums.PayStatusEnum;
